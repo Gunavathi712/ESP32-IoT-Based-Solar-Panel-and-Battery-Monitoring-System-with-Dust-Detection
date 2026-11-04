@@ -1,0 +1,2 @@
+# ESP32-IoT-Based-Solar-Panel-and-Battery-Monitoring-System-with-Dust-Detection
+IoT-based solar monitoring system using ESP32 to monitor environmental temp, hum, lightintensity, dust condition, battery voltage, current, and battery temperature. The system displays real-time sensor data on a 16×2 I2C LCD, uploads monitoring data to ThingSpeak, and provides buzzer alerts for dust detection and high-temperature conditions.
