@@ -11,8 +11,8 @@
 const char* WIFI_SSID     = "solar";
 const char* WIFI_PASSWORD = "12345678";
 
-unsigned long CHANNEL_ID      = 3557384UL;
-const char*   WRITE_API_KEY   = "LCENL10W04PLV5XC";
+unsigned long CHANNEL_ID      = your channel id;
+const char*   WRITE_API_KEY   = "your write api key";
 
 WiFiClient client;
 
